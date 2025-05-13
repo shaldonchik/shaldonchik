@@ -11,10 +11,6 @@
   </a>
 </p>
 
-### Stats:
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaldonchik&theme=highcontrast&border_radius=8&hide_border=true)
-
 ### Current projects:
 
 * Friendly World <picture>
