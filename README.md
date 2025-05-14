@@ -10,12 +10,3 @@
 
   </a>
 </p>
-
-### Current projects:
-
-* Friendly World <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
-</picture>
-
-#### Thank you for visiting my profile, glad to hear feedback, love y'll <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
