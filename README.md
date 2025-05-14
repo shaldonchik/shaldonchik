@@ -1,6 +1,5 @@
-# Hi mate, welcome to my gh profile!
+# Hi guys, welcome to my gh profile ❤
 
-### Skills:
 <p align="flex-end"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,linux,angular,arch,figma,hibernate"/></br>
